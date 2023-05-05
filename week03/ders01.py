@@ -10,4 +10,7 @@ print(isimler[3])
 mesaj = f"Sınıfın en çalışkan öğrencisi {isimler[0].title()}"
 print(mesaj)
 
+print[isimler[4]]
+
+
 
