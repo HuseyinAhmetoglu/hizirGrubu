@@ -1,4 +1,4 @@
-isimler = ["Ali","Ayşe","Mehmet"]
+isimler = ["Ali", "Ayşe", "Mehmet"]
 sinif = isimler
 print(isimler)
 print(sinif)
